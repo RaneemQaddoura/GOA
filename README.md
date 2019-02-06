@@ -1,10 +1,11 @@
 # GOA
 Grasshopper Optimisation Algorithm (GOA) 
 
-//_________________________________________________________________________//
-//  Grasshopper Optimization Algorithm (GOA) source codes demo 1.0         //
-//                                                                         //
-//  Programmer of the original Matlab version: Seyedali Mirjalili          //
+_________________________________________________________________________//
+
+Grasshopper Optimization Algorithm (GOA) source codes demo 1.0         //
+
+Programmer of the original Matlab version: Seyedali Mirjalili          //
 //                                                                         //
 //  Main paper: S. Saremi, S. Mirjalili, A. Lewis                          //
 //              Grasshopper Optimisation Algorithm: Theory and Application //
